@@ -3,8 +3,7 @@ Add "no password reuse" policy to ASP.Net Identity 2.2.1
 
 Prevent users from reusing passwords used the last year.
 
-The code is in part from this code based on ASP.Net Identity 2.1.0:
-[http://aspnet.codeplex.com/SourceControl/latest#Samples/Identity/Identity-PasswordPolicy](http://aspnet.codeplex.com/SourceControl/latest#Samples/Identity/Identity-PasswordPolicy)
+
 
 ## Resume
 - Add new class PreviousPassword to IdentityModels.cs
